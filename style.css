@@ -567,7 +567,7 @@ section{
 }
 
 .contact .row form input::placeholder, .contact .row form textarea::placeholder{
-    text-transform: capitalize;
+    text-transform: lowercase;
     color:var(--secondary-text-color);
 }
 
@@ -680,7 +680,7 @@ section{
 
 }
 
-@media (max-width:400px){
+@media (max-width:600px){
 
     html{
         font-size: 50%;
@@ -694,8 +694,14 @@ section{
         width:100%;
     }
 
-    .blog .box-container .box{
-        width:100%;
+    .box-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .box {
+        margin-bottom: 20px;
     }
 
     .contact .row form .inputBox input{
