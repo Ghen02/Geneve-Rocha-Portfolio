@@ -56,6 +56,11 @@ section{
     padding:1rem;
     padding:0 8%;
 }
+.share a {
+    
+    font-size: 24px; 
+    margin-right: 10px; 
+
 
 .btn{
     display: inline-block;
