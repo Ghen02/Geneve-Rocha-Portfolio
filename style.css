@@ -200,8 +200,9 @@ section{
 
 .home .content h3{
     color:var(--primary-text-color);
-    font-size: 5rem;
     text-transform: none;
+    font-size: 5rem;
+    
 }
 
 .home .content h3 span{
