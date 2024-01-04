@@ -264,7 +264,7 @@ section{
 }
 
 .about .row .box:nth-child(1) .progress:nth-child(2) .bar span{
-    width: 95%;
+    width: 90%;
 }
 
 .about .row .box:nth-child(1) .progress:nth-child(3) .bar span{
@@ -280,7 +280,7 @@ section{
 }
 
 .about .row .box:nth-child(2) .progress:nth-child(2) .bar span{
-    width: 97%;
+    width: 95%;
 }
 
 .about .row .box:nth-child(2) .progress:nth-child(3) .bar span{
