@@ -573,7 +573,7 @@ section{
 }
 
 .contact .row form input::placeholder, .contact .row form textarea::placeholder{
-    text-transform: none;
+    text-transform:none;
     color:var(--secondary-text-color);
 }
 
