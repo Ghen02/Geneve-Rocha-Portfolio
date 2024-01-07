@@ -567,13 +567,13 @@ section{
     font-size: 1.7rem;
     border-bottom: .1rem solid var(--secondary-text-color);
     text-transform: none;
-    background:none;
+    background: none;
     color:var(--main-color);
     width: 100%;
 }
 
 .contact .row form input::placeholder, .contact .row form textarea::placeholder{
-    text-transform: lowercase;
+    text-transform: none;
     color:var(--secondary-text-color);
 }
 
