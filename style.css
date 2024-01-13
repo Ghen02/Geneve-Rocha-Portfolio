@@ -362,6 +362,7 @@ section{
 .services .box-container .box h3 {
     font-size: 2rem;
     color: var(--main-color);
+    text-transform: none;
 }
 
 .services .box-container .box::before {
