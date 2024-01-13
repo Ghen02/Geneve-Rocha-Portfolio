@@ -474,6 +474,7 @@ section{
 .portfolio .image-container .box .info h3{
     font-size: 2.5rem;
     color:var(--primary-text-color);
+    text-transform: none;
 }
 
 .contact .row{
