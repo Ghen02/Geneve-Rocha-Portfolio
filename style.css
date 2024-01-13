@@ -156,6 +156,7 @@ section{
     padding:1rem;
     padding-right: 7rem;
     color:var(--primary-text-color);
+    text-transform: none;
 }
 
 .navbar a:hover{
@@ -202,7 +203,6 @@ section{
     color:var(--primary-text-color);
     text-transform: none;
     font-size: 5rem;
-    
 }
 
 .home .content h3 span{
